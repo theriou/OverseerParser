@@ -1,0 +1,11 @@
+*.suo
+*.user
+*.pdb
+*.exe*
+*.vshost.exe.*
+Bin/
+Obj/
+Debug/
+Release/
+Properties/
+.vs/
